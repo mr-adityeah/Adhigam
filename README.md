@@ -16,4 +16,3 @@ After communicating with the owner directly or via the platform's Global Project
 
 The solution also supports project plagiarism and individual recognition, as well as keeping the user/community engaged via the programmes tab.
 
-<img src="https://drive.google.com/file/d/1GTvyROrQjYqLL7PlqcHoDGr8zQXWwzlb/view?usp=sharing">
